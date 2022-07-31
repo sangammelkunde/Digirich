@@ -1,0 +1,33 @@
+@import '~ngx-toastr/toastr';
+:root {
+    --primary: rgb(0, 53, 102);
+    /* --secondary: #0094c5; */
+    --secondary: #2874f0;
+}
+
+body {
+    background-color: #dee2e6;
+}
+
+
+
+.card {
+    cursor: pointer;
+}
+
+.card img {
+    /* float: left; */
+    margin: auto;
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.disabled {
+    cursor: not-allowed;
+}
+
+.toast-top-right {
+    top: 10%;
+}
+  

@@ -1,0 +1,7 @@
+# Server Port
+server:
+  port: 9006
+
+spring:
+  application:
+    name: discount-service

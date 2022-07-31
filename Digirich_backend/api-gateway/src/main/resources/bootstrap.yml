@@ -1,0 +1,6 @@
+# Cloud config server configuration
+spring:
+  cloud:
+    config:
+      uri:
+        - http://localhost:9004

@@ -1,0 +1,7 @@
+# server port
+server:
+  port: 9001
+
+spring:
+  application:
+    name: product-service
